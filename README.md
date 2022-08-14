@@ -4,7 +4,7 @@
                     My interest in website development sparked by playing 
                     with HTML and CSS to customize an blog template, and I think it is extremely interesting. 
                     My curiosity in programming started by
-                      playing RPG Maker back in 2012 when I want to create
+                      playing RPG Maker back in 2012 when I wanted to create
                        my own RPG game. I copied other people's code to 
                        customize the default game engine, and this experience taught me some 
                        Javascript knowledge. <h3>
