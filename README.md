@@ -1,13 +1,6 @@
 <h1 align="center"> Hi, I’m Rachel </h1>
 <h3 align="center">I seeking to use my knowledge and experience of web-development to effectively contribute to the company. <h3>
-<h3 align="center">I love designing and building stuff from scratch. 
-                    My interest in website development sparked by playing 
-                    with HTML and CSS to customize an blog template, and I think it is extremely interesting. 
-                    My curiosity in programming started by
-                      playing RPG Maker back in 2012 when I wanted to create
-                       my own RPG game. I copied other people's code to 
-                       customize the default game engine, and this experience taught me some 
-                       Javascript knowledge. <h3>
+
                        <h3 align="center">I'm a self-motivated learner who is able to study independently. Web development is 
                     what I am passionate about,and I'd love to be a lifelong learner for it.<h3>
 
